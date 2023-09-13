@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.0.0-dev.9
+
+### Major Changes
+
+- [#1556](https://github.com/iTwin/iTwinUI/pull/1556): Items inside button-group no longer need a wrapping `<div>`.
+
 ## 2.0.0-dev.8
 
 ### Major Changes
